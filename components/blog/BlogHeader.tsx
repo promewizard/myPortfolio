@@ -41,7 +41,7 @@ const BlogHeader: React.FC = () => {
             href="/blog"
             className="after:content-['blog'] after:bg-bgdark dark:after:bg-bglight after:text-textlight dark:after:text-bgdark after:text-base after:px-2 after:inline-block after:rotate-12 after:absolute after:-right-12 hover:after:rotate-0 relative text-xl sm:text-2xl hover:text-marrsgreen dark:hover:text-carrigreen focus-visible:outline-marrsgreen dark:focus-visible:outline-carrigreen"
           >
-            SatNaing
+            Prometheus
             <span className="text-marrsgreen dark:text-carrigreen">.dev</span>
           </Link>
           <nav className="flex items-center">
