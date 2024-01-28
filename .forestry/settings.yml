@@ -12,7 +12,7 @@ sections:
   new_doc_ext: md
   templates:
   - blog-article
-upload_dir: SatNaing
+upload_dir: prometheus
 public_path: https://res.cloudinary.com/noezectz/image/upload
 front_matter_path: ''
 use_front_matter_path: false
@@ -20,7 +20,7 @@ file_template: ":filename:"
 build:
   preview_env:
   - NEXT_PUBLIC_URL=https://satnaing.dev
-  - NEXT_PUBLIC_EMAIL=satnaing.dev@gmail.com
+  - NEXT_PUBLIC_EMAIL=prometheus92730@gmail.com
   preview_output_directory: ".next"
   install_dependencies_command: npm install
   preview_docker_image: forestryio/node:16

@@ -13,7 +13,7 @@ tags:
   - Simulation
   - GameRole-Playing GameAdventureAction 
   - Steam
-author: Sat Naing
+author: Kenji Anderson
 coverImage: https://res.cloudinary.com/dvknjzbss/image/upload/v1706456032/IMAGE/Annotation_2024-01-28_073141_yjvmbj.webp
 coverImageAlt: Project Canopy
 coverImageWidth: "1200"

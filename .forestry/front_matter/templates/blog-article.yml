@@ -95,11 +95,11 @@ fields:
   description: Tags for the post
 - name: author
   type: select
-  default: Sat Naing
+  default: Kenji Anderson
   config:
     required: true
     options:
-    - Sat Naing
+    - Kenji Anderson
     source:
       type: simple
       section: 

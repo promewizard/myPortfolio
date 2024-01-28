@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://satnaing.dev/sitemap.xml
+Sitemap: https://prometheus.dev/sitemap.xml

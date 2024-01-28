@@ -64,7 +64,7 @@ const socialLinks = [
   },
   {
     id: 2,
-    title: "Sat Naing's LinkedIn Profile",
+    title: "Sat Kenji Anderson's LinkedIn Profile",
     link: "https://www.linkedin.com/in/prometheus/",
     svg: (
       <svg
@@ -80,7 +80,7 @@ const socialLinks = [
   },
   {
     id: 3,
-    title: "Check Sat Naing on Dev.to",
+    title: "Check Sat Kenji Anderson on Dev.to",
     link: "https://dev.to/prometheus",
     svg: (
       <svg
@@ -95,7 +95,7 @@ const socialLinks = [
   },
   {
     id: 4,
-    title: "Sat Naing's Profile on Facebook",
+    title: "Sat Kenji Anderson's Profile on Facebook",
     link: "https://www.facebook.com/prometheus.dev",
     svg: (
       <svg

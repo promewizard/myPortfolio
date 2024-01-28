@@ -41,7 +41,7 @@ const BlogHeroSection: React.FC = () => {
       <div className="mt-10">
         <div className="overflow-hidden py-1">
           <h1 className="main-header text-4xl lg:text-5xl font-bold">
-            Sat Naing's{" "}
+            Kenji Anderson's{" "}
             <span className="text-marrsgreen dark:text-carrigreen">Blog</span>
           </h1>
         </div>
@@ -55,7 +55,7 @@ const BlogHeroSection: React.FC = () => {
           </p>
           <p className="intro-3">
             You can follow me on my social media and{" "}
-            <a href="https://github.com/satnaing" className="link">
+            <a href="https://github.com/KenjiAnderson" className="link">
               Github account.
             </a>
             <svg
