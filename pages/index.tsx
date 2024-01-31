@@ -21,10 +21,10 @@ type Props = {
 
 export const meta = {
   description:
-    "Kenji Anderson is a full-stack developer based in Yangon, Myanmar. He is passionate about writing codes and developing web applications to solve real-life challenges.",
+    "Kenji Anderson is a full-stack developer based in Los Angeles, California. He is passionate about writing codes and developing web applications to solve real-life challenges.",
   author: "Kenji Anderson",
   type: "website",
-  ogImage: `${process.env.NEXT_PUBLIC_URL}/satnaing-dev-og-new.png`,
+  ogImage: `${process.env.NEXT_PUBLIC_URL}/new-project.webp`,
   siteName: "Kenji Anderson",
   imageAlt: "Kenji Anderson portfolio website",
 };
