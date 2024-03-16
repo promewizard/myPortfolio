@@ -57,7 +57,7 @@ const socialLinks = [
   {
     id: 1,
     title: "Kenji Anderson's Github Profile",
-    link: "https://github.com/KenjiAnderson",
+    link: "https://github.com/promewizard",
     svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"

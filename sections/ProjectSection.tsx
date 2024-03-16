@@ -79,7 +79,7 @@ const projects = [
     desc: "Welcome to my portfolio, a cutting-edge web application that combines the power of Next.js, Tailwind CSS, and TypeScript to deliver a seamless and visually stunning user experience. This project represents a perfect synergy of modern technologies for front-end development.",
     tags: ["React", "TypeScript", "Styled-Components"],
     liveUrl: "https://prometheus.dev/",
-    codeUrl: "https://github.com/KenjiAnderson/myPortfolio.git",
+    codeUrl: "https://github.com/promewizard/myPortfolio.git",
     bgColor: "bg-[#B4BEE0]",
   },
   {
@@ -97,7 +97,7 @@ const projects = [
     desc: "The Fresh Market is a destination for those looking to discover the best including convenient, restaurant-quality meals, hand-picked produce, premium baked goods, fresh-cut flowers, custom-cut meats and carefully curated offerings for holidays and special occasions.",
     tags: ["NextJS", "TypeScript", "TailwindCSS", "ContextAPI"],
     liveUrl: "https://www.thefreshmarket.com/",
-    codeUrl: "https://github.com/KenjiAnderson/haru-fashion",
+    codeUrl: "https://github.com/promewizard/haru-fashion",
     bgColor: "bg-[#A6CECE]",
   },
   {
@@ -113,10 +113,12 @@ const projects = [
       />
     ),
     desc: "A first person survival adventure where you are sent to conduct scientific research on an alien jungle planet. The planet is completely covered in a layer of vegetation so thick that we have no way of detecting what lies beneath the Canopy.",
-    tags: ["C#",
+    tags: [
+      "C#",
       "Unity",
       "Simulation GameRole-Playing GameAdventureAction",
-      "Steam"],
+      "Steam",
+    ],
     liveUrl: "https://projectcanopygame.com",
     codeUrl: "https://github.com/satnaing/haru-api",
     bgColor: "bg-[#C5E4E7]",
@@ -135,8 +137,9 @@ const projects = [
     ),
     desc: "Yeecall - the revolutionary high-quality internet call, with HD Video & Voice technology, real-time photo & blackboard, offers an immersive communication experience as if all the people are at the same place.",
     tags: ["ReactAmazon", "Node.js", "Twilio", "APIWebRTCRESTful Architecture"],
-    liveUrl: "https://play.google.com/store/apps/dev?id=9030960344933824144&hl=en&gl=US",
-    codeUrl: "https://github.com/KenjiAnderson/astro-paper",
+    liveUrl:
+      "https://play.google.com/store/apps/dev?id=9030960344933824144&hl=en&gl=US",
+    codeUrl: "https://github.com/promewizard/astro-paper",
     bgColor: "bg-[#9FD0E3]",
   },
 ];
