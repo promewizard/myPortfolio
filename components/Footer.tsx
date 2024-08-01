@@ -81,7 +81,7 @@ const socialLinks = [
   {
     id: 3,
     title: "Check Sat Jason Lee on Dev.to",
-    link: "https://dev.to/prometheus",
+    link: "https://dev.to/promewizard",
     svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
