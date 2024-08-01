@@ -1,6 +1,6 @@
 # Jason Lee's Portfolio & Blog
 
-![Jason Lee-portfolio-and-blog](https://res.cloudinary.com/dvknjzbss/image/upload/v1705926257/IMAGE/New_Project_xm05uc.webp)
+![Jason Lee-portfolio-and-blog](https://res.cloudinary.com/dvknjzbss/image/upload/v1722495489/IMAGE/new-project_xm05uc.webp)
 ![ts](https://badgen.net/badge/Built%20With/TypeScript/blue) ![vercel](https://img.shields.io/github/deployments/satnaing/my-portfolio/production?label=vercel&logo=vercel&logoColor=white)
 
 My portfolio & blog website developed with Next.JS(SSG) and TypeScript. Tailwind CSS and GSAP is used for styling and animations. Blog contents are written in Markdown format. Light & Dark themes supported.
