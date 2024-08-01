@@ -78,7 +78,7 @@ const projects = [
     ),
     desc: "Welcome to my portfolio, a cutting-edge web application that combines the power of Next.js, Tailwind CSS, and TypeScript to deliver a seamless and visually stunning user experience. This project represents a perfect synergy of modern technologies for front-end development.",
     tags: ["React", "TypeScript", "Styled-Components"],
-    liveUrl: "https://my-portfolio-o8a3.vercel.app//",
+    liveUrl: "https://my-portfolio-o8a3.vercel.app/",
     codeUrl: "https://github.com/promewizard/myPortfolio.git",
     bgColor: "bg-[#B4BEE0]",
   },

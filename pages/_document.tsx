@@ -7,7 +7,7 @@ const Document = () => {
         <title>Jason Lee - A Full-stack Developer</title>
         <meta
           name="description"
-          content="Jason Lee is a full-stack developer based in Los Angeles, California. He is passionate about writing codes and developing web applications to solve real-life challenges."
+          content="Jason Lee is a full-stack developer with over 5 years of experience. He is passionate about writing codes and developing web applications to solve real-life challenges."
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
