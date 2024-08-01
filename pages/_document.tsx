@@ -24,11 +24,11 @@ const Document = () => {
         />
         <meta
           name="twitter:description"
-          content="Jason Lee is a full-stack developer based in Los Angeles, California. He is passionate about writing codes and developing web applications to solve real-life challenges."
+          content="Jason Lee is a full-stack developer with 5 years of experience. He is passionate about writing codes and developing web applications to solve real-life challenges."
         />
         <meta
           name="twitter:image"
-          content="https://ogcdn.net/6064b869-74ed-4eb9-b76c-0b701ffe7e6b/v4/my-portfolio-o8a3.vercel.app/Kenji%20Anderson%20-%20A%20Full-stack%20Developer/https%3A%2F%2Fopengraph.b-cdn.net%2Fproduction%2Fimages%2Fe6650eb1-de56-434f-8729-4bd65d341978.jpg%3Ftoken%3DIEZXO6tcAFJOpz1_wKazR5tnBth4HX7eporcFGS_84U%26height%3D600%26width%3D600%26expires%3D33258492356/og.png"
+          content="/f1b5a05f-18ce-48c6-9cae-6c92d04e7845.png"
         ></meta>
 
         {/* Favicons */}

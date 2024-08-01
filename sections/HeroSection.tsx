@@ -140,10 +140,10 @@ const HeroSection: React.FC = () => {
             exceptional results.
           </p>
           <p>
-            With my expertise in React and NextJS on the frontend, and PHP,
-            CodeIgniter, NodeJS, and Express on the backend, I bring a unique
-            combination of technical skills and creative problem-solving to
-            every project I work on.
+            With my expertise in React, Vue and Angular on the frontend, and
+            Laravel, Django, NodeJS, Ror, and Golang on the backend, I bring a
+            unique combination of technical skills and creative problem-solving
+            to every project I work on.
           </p>
         </div>
         <LinkButton href={`mailto:${process.env.NEXT_PUBLIC_EMAIL}`}>
