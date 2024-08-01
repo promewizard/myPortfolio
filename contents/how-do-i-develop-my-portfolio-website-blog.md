@@ -9,7 +9,7 @@ tags:
   - Blog
 author: Prometheus
 type: article
-coverImage: https://asset.cloudinary.com/dvknjzbss/38307741e4a4c90eb4ec9724453ea222
+coverImage: https://res.cloudinary.com/dvknjzbss/image/upload/v1722495489/IMAGE/new-project_xm05uc.webp
 coverImageAlt: Macbook at a cafe
 title: How Do I Develop My Portfolio Website & Blog
 description:
