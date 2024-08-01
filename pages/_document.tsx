@@ -4,10 +4,10 @@ const Document = () => {
   return (
     <Html lang="en">
       <Head>
-        <title>Kenji Anderson - A Full-stack Developer</title>
+        <title>Jason Lee - A Full-stack Developer</title>
         <meta
           name="description"
-          content="Kenji Anderson is a full-stack developer based in Los Angeles, California. He is passionate about writing codes and developing web applications to solve real-life challenges."
+          content="Jason Lee is a full-stack developer based in Los Angeles, California. He is passionate about writing codes and developing web applications to solve real-life challenges."
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -20,11 +20,11 @@ const Document = () => {
         />
         <meta
           name="twitter:title"
-          content="Kenji Anderson - A Full-stack Developer"
+          content="Jason Lee - A Full-stack Developer"
         />
         <meta
           name="twitter:description"
-          content="Kenji Anderson is a full-stack developer based in Los Angeles, California. He is passionate about writing codes and developing web applications to solve real-life challenges."
+          content="Jason Lee is a full-stack developer based in Los Angeles, California. He is passionate about writing codes and developing web applications to solve real-life challenges."
         />
         <meta
           name="twitter:image"
