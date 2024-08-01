@@ -1,8 +1,8 @@
 ---
 title: Unveiling "Project Canopy"- A Journey into the Unknown Jungle of C#, Unity, and Steam
-description: Haru Fashion e-commerce application တစ်ခုကိုကျွန်တော် ဘယ်လိုရေးခဲ့သလဲ
+description: Game adventure
 excerpt: Embark on an immersive journey as we unveil the intricacies of building "Project Canopy" – a groundbreaking first-person survival adventure that thrusts players into the heart of an alien jungle planet shrouded in mystery.
-  
+
 datetime: 2020-03-20T05:35:07.322+00:00
 slug: how-i-made-project-canopy
 featured: true
@@ -11,9 +11,9 @@ tags:
   - C#
   - Unity
   - Simulation
-  - GameRole-Playing GameAdventureAction 
+  - GameRole-Playing GameAdventureAction
   - Steam
-author: Kenji Anderson
+author: Prometheus
 coverImage: https://res.cloudinary.com/dvknjzbss/image/upload/v1706456032/IMAGE/Annotation_2024-01-28_073141_yjvmbj.webp
 coverImageAlt: Project Canopy
 coverImageWidth: "1200"

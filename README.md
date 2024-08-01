@@ -1,6 +1,6 @@
-# Kenji Anderson's Portfolio & Blog
+# Jason Lee's Portfolio & Blog
 
-![Kenji Anderson-portfolio-and-blog](https://res.cloudinary.com/dvknjzbss/image/upload/v1705926257/IMAGE/New_Project_gqzdrc.webp)
+![Jason Lee-portfolio-and-blog](https://res.cloudinary.com/dvknjzbss/image/upload/v1705926257/IMAGE/New_Project_gqzdrc.webp)
 ![ts](https://badgen.net/badge/Built%20With/TypeScript/blue) ![vercel](https://img.shields.io/github/deployments/satnaing/my-portfolio/production?label=vercel&logo=vercel&logoColor=white)
 
 My portfolio & blog website developed with Next.JS(SSG) and TypeScript. Tailwind CSS and GSAP is used for styling and animations. Blog contents are written in Markdown format. Light & Dark themes supported.
@@ -29,7 +29,7 @@ My portfolio & blog website developed with Next.JS(SSG) and TypeScript. Tailwind
 
 <p align="center">
   <a href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fprometheus.dev%2F&form_factor=desktop">
-    <img width="710" alt="Kenji Anderson Portfolio Website Lighthouse Score" src="public/lighthouse-result.svg">
+    <img width="710" alt="Jason Lee Portfolio Website Lighthouse Score" src="public/lighthouse-result.svg">
   <a>
 </p>
 

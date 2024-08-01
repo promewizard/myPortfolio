@@ -21,19 +21,19 @@ type Props = {
 
 export const meta = {
   description:
-    "Kenji Anderson is a full-stack developer based in Los Angeles, California. He is passionate about writing codes and developing web applications to solve real-life challenges.",
-  author: "Kenji Anderson",
+    "Prometheus is a full-stack developer based in Los Angeles, California. He is passionate about writing codes and developing web applications to solve real-life challenges.",
+  author: "Prometheus",
   type: "website",
   ogImage: `${process.env.NEXT_PUBLIC_URL}/new-project.webp`,
-  siteName: "Kenji Anderson",
-  imageAlt: "Kenji Anderson portfolio website",
+  siteName: "Prometheus",
+  imageAlt: "Prometheus portfolio website",
 };
 
 const Home: NextPage<Props> = ({ blogPosts }) => {
   return (
     <>
       <AppHead
-        title="Kenji Anderson - A Full-stack Developer"
+        title="Prometheus - A Full-stack Developer"
         url={`${process.env.NEXT_PUBLIC_URL}`}
         meta={meta}
       />

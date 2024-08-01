@@ -109,8 +109,9 @@ const AboutSection: React.FC = () => {
           <div className="text-center">
             <RoughNotation
               type="underline"
-              color={`${theme === "light" ? "rgb(0, 122, 122)" : "rgb(5 206 145)"
-                }`}
+              color={`${
+                theme === "light" ? "rgb(0, 122, 122)" : "rgb(5 206 145)"
+              }`}
               strokeWidth={2}
               order={1}
               show={isSecOnScreen}
@@ -138,7 +139,7 @@ const AboutSection: React.FC = () => {
                     width={1700}
                     height={1790}
                     priority
-                    alt="Kenji Anderson profile picture"
+                    alt="Prometheus profile picture"
                     className="rounded-md"
                   />
                 </div>
@@ -168,9 +169,21 @@ const AboutSection: React.FC = () => {
             </div>
 
             <p className="col-start-1 col-end-3 row-start-4 row-end-6 lg:row-start-1 lg:row-end-2 lg:col-start-3 lg:col-end-6 lg:ml-8 lg:mt-auto about-intro">
-              I am an enthusiastic and forward-thinking Full Stack Developer with over 7 years of extensive experience in a diverse range of technologies,
-              including Java/JS, Angular, Vue, React, Node, Python, PHP, Ruby, Golang, .NET, and C/C++/C#. I take pride in contributing to the development of high-impact projects, such as Notebooktherapy (a Shopify website that ranks 9th in global revenue), and leading successful initiatives in various capacities, including as a lead developer, DevOps specialist, and project manager within international teams.<br />
-              What sets me apart is my creative and result-focused approach, consistently delivering innovative solutions. My passion for continuous learning ensures that I stay abreast of emerging technologies, fostering a curious mindset and keeping me ahead in this dynamic field
+              I am an enthusiastic and forward-thinking Full Stack Developer
+              with over 5 years of extensive experience in a diverse range of
+              technologies, including Angular, Vue, React, Node, Python, PHP,
+              Ruby, Golang, and C/C++/C#. I take pride in contributing to the
+              development of high-impact projects, such as GAVS Technologies (a
+              Shopify website that ranks 9th in global revenue), and leading
+              successful initiatives in various capacities, including as a Sr
+              developer, DevOps specialist, and project manager within
+              international teams.
+              <br />
+              What sets me apart is my creative and result-focused approach,
+              consistently delivering innovative solutions. My passion for
+              continuous learning ensures that I stay abreast of emerging
+              technologies, fostering a curious mindset and keeping me ahead in
+              this dynamic field
             </p>
 
             <div
@@ -195,13 +208,13 @@ const educationInfo = [
   {
     id: 1,
     title: "Bachelor's degree in Computer Science",
-    subTitle: "Osaka University | 2014 ~ 2017",
+    subTitle: "University of California-Los Angeles | 2016 ~ 2019",
     list: [
       "Studied computer science, software development, DevOps",
       "Graduated with First Class Honours",
-      "Took part in ACM ICPC Contest 2014"
+      "Took part in ACM ICPC Contest 2016",
     ],
-  }
+  },
 ];
 
 export default AboutSection;

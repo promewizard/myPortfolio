@@ -1,8 +1,7 @@
 ---
 title: "Building Yeecall: Crafting Seamless Connections in the Digital Realm"
 description: This is just an OG description
-excerpt:
-  This blog takes you on a detailed journey through the creation of Yeecall, a revolutionary platform that sets new standards for high-quality internet calls
+excerpt: This blog takes you on a detailed journey through the creation of Yeecall, a revolutionary platform that sets new standards for high-quality internet calls
 datetime: 2018-06-17T05:35:07.000+00:00
 featured: false
 category: how do i
@@ -11,10 +10,10 @@ tags:
   - Node.js
   - Twilio
   - APIWebRTCRESTful Architecture
-author: Kenji Anderson
+author: Prometheus
 type: article
 coverImage: https://res.cloudinary.com/dvknjzbss/image/upload/v1706458278/IMAGE/yeecall_lfb9vy.webp
-coverImageAlt: 
+coverImageAlt:
 coverImageWidth: "2725"
 coverImageHeight: "1400"
 ogImage: "https://res.cloudinary.com/dvknjzbss/image/upload/v1706458278/IMAGE/yeecall_lfb9vy.webp"
@@ -50,7 +49,7 @@ APIWebRTC takes the reins in facilitating real-time data transfer for Yeecall. T
 
 Yeecall's architecture is built on RESTful principles, forming the backbone of scalability and maintainability. RESTful APIs facilitate smooth communication between different components, allowing Yeecall to adapt seamlessly to the growing demands of its user base while remaining easily maintainable.
 
-##  Embarking on a Polite AE Journey:
+## Embarking on a Polite AE Journey:
 
 Yeecall's development journey embraces the principles of "Polite AE," prioritizing politeness in interactions with both users and developers. This philosophy translates into a user-centric design, courteous communication, and developer-friendly coding practices.
 

@@ -56,7 +56,7 @@ const SocialLinks: React.FC<{ page?: string }> = ({ page }) => {
 const socialLinks = [
   {
     id: 1,
-    title: "Kenji Anderson's Github Profile",
+    title: "prometheus's Github Profile",
     link: "https://github.com/promewizard",
     svg: (
       <svg
@@ -75,7 +75,7 @@ const socialLinks = [
   },
   {
     id: 2,
-    title: "Kenji Anderson's LinkedIn Profile",
+    title: "prometheus's LinkedIn Profile",
     link: "https://www.linkedin.com/in/prometheus/",
     svg: (
       <svg
@@ -91,7 +91,7 @@ const socialLinks = [
   },
   {
     id: 3,
-    title: "Check Kenji Anderson on Dev.to",
+    title: "Check prometheus on Dev.to",
     link: "https://dev.to/prometheus",
     svg: (
       <svg
@@ -106,7 +106,7 @@ const socialLinks = [
   },
   {
     id: 4,
-    title: "Kenji Anderson's Profile on Facebook",
+    title: "prometheus's Profile on Facebook",
     link: "https://www.facebook.com/prometheus.dev",
     svg: (
       <svg

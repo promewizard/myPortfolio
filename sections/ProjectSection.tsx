@@ -53,7 +53,7 @@ const ProjectSection: React.FC = () => {
       <div className="others text-center mb-16">
         Other projects can be explored in{" "}
         <a
-          href="https://github.com/prometheus"
+          href="https://github.com/promewizard"
           className="font-medium underline link-outline text-marrsgreen dark:text-carrigreen whitespace-nowrap"
         >
           my github profile
@@ -78,7 +78,7 @@ const projects = [
     ),
     desc: "Welcome to my portfolio, a cutting-edge web application that combines the power of Next.js, Tailwind CSS, and TypeScript to deliver a seamless and visually stunning user experience. This project represents a perfect synergy of modern technologies for front-end development.",
     tags: ["React", "TypeScript", "Styled-Components"],
-    liveUrl: "https://prometheus.dev/",
+    liveUrl: "https://my-portfolio-o8a3.vercel.app//",
     codeUrl: "https://github.com/promewizard/myPortfolio.git",
     bgColor: "bg-[#B4BEE0]",
   },
@@ -97,7 +97,7 @@ const projects = [
     desc: "The Fresh Market is a destination for those looking to discover the best including convenient, restaurant-quality meals, hand-picked produce, premium baked goods, fresh-cut flowers, custom-cut meats and carefully curated offerings for holidays and special occasions.",
     tags: ["NextJS", "TypeScript", "TailwindCSS", "ContextAPI"],
     liveUrl: "https://www.thefreshmarket.com/",
-    codeUrl: "https://github.com/promewizard/haru-fashion",
+    codeUrl: "https://github.com/promewizard/",
     bgColor: "bg-[#A6CECE]",
   },
   {
@@ -120,7 +120,7 @@ const projects = [
       "Steam",
     ],
     liveUrl: "https://projectcanopygame.com",
-    codeUrl: "https://github.com/satnaing/haru-api",
+    codeUrl: "https://github.com/promewizard/",
     bgColor: "bg-[#C5E4E7]",
   },
   {
@@ -139,7 +139,7 @@ const projects = [
     tags: ["ReactAmazon", "Node.js", "Twilio", "APIWebRTCRESTful Architecture"],
     liveUrl:
       "https://play.google.com/store/apps/dev?id=9030960344933824144&hl=en&gl=US",
-    codeUrl: "https://github.com/promewizard/astro-paper",
+    codeUrl: "https://github.com/promewizard/",
     bgColor: "bg-[#9FD0E3]",
   },
 ];

@@ -36,7 +36,7 @@ const Footer: React.FC<Props> = ({ noPadding = false }) => {
             d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"
           />
         </svg>{" "}
-        by Kenji Anderson
+        by Jason Lee
       </div>
     </footer>
   );
@@ -45,7 +45,7 @@ const Footer: React.FC<Props> = ({ noPadding = false }) => {
 const socialLinks = [
   {
     id: 1,
-    title: "Kenji Anderson's Github Profile",
+    title: "Jason Lee's Github Profile",
     link: "https://github.com/promewizard",
     svg: (
       <svg
@@ -64,7 +64,7 @@ const socialLinks = [
   },
   {
     id: 2,
-    title: "Sat Kenji Anderson's LinkedIn Profile",
+    title: "Sat Jason Lee's LinkedIn Profile",
     link: "https://www.linkedin.com/in/prometheus/",
     svg: (
       <svg
@@ -80,7 +80,7 @@ const socialLinks = [
   },
   {
     id: 3,
-    title: "Check Sat Kenji Anderson on Dev.to",
+    title: "Check Sat Jason Lee on Dev.to",
     link: "https://dev.to/prometheus",
     svg: (
       <svg
@@ -95,7 +95,7 @@ const socialLinks = [
   },
   {
     id: 4,
-    title: "Sat Kenji Anderson's Profile on Facebook",
+    title: "Sat Jason Lee's Profile on Facebook",
     link: "https://www.facebook.com/prometheus.dev",
     svg: (
       <svg

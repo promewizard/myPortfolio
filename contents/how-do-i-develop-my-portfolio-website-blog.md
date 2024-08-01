@@ -7,7 +7,7 @@ tags:
   - TailwindCSS
   - HeadlessCMS
   - Blog
-author: kenji anderson
+author: Prometheus
 type: article
 coverImage: https://res.cloudinary.com/dvknjzbss/image/upload/v1705926257/IMAGE/New_Project_gqzdrc.webp
 coverImageAlt: Macbook at a cafe
@@ -15,8 +15,7 @@ title: How Do I Develop My Portfolio Website & Blog
 description:
   My experience about developing my first portfolio website and a blog
   using NextJS and a headless CMS.
-excerpt:
- Starting the journey of building my personal portfolio was an exciting adventure, motivated by the eagerness to present my skills and experiences as a Full Stack Developer with over 7 years of extensive expertise.
+excerpt: Starting the journey of building my personal portfolio was an exciting adventure, motivated by the eagerness to present my skills and experiences as a Full Stack Developer with over 7 years of extensive expertise.
 slug: how-do-i-develop-my-portfolio-and-blog
 featured: true
 category: How Do I
@@ -61,7 +60,7 @@ The following are certain features of my portfolio and blog
 
 The entire project is developed with SEO focus in mind. I've used proper meta tags, descriptions and heading alignments. This website is now indexed by Google.
 
-> You can search this website on google by using keywords like 'prometheus kenji anderson dev'
+> You can search this website on google by using keywords like 'prometheus dev'
 
 Moreover, this website will be displayed well when shared to social media due to properly used meta tags.
 
@@ -80,7 +79,7 @@ This website is fully accessible. You can navigate around by only using keyboard
 ### Search box, Categories & Tags
 
 All blog contents can be searched by search box. Moreover, contents can be filtered by categories and tags. In this way, blog readers can search and read what they really want.
- 
+
 ### Animations
 
 Initially I used [Framer Motion](https://www.framer.com/motion/ "Framer Motion") to add animations and micro interactions for this website. However, when I tried to use some complex animations and parallax effects, I found it inconvenient to integrate with Framer Motion (Maybe I'm not very good at and used to working with it). Hence, I decided to use [GSAP](https://greensock.com/ "GSAP Animation Library") for all of my animations. It is one of the most popular animation library and it is capable of doing complex and advanced animations. You can see animations and micro interactions on pretty much every page of this website.
@@ -95,6 +94,6 @@ Happy coding! 🚀✨
 
 ## Project Links
 
-- Website: [https://prometheus.dev/](https://prometheus.dev/ "https://prometheus.dev/")
-- Blog: [https://prometheus.dev/blog](https://prometheus.dev/blog "https://prometheus.dev/blog")
+- Website: [https://my-portfolio-o8a3.vercel.app/](https://prometheus.dev/ "https://prometheus.dev/")
+- Blog: [https://my-portfolio-o8a3.vercel.app/blog](https://prometheus.dev/blog "https://prometheus.dev/blog")
 - Repo: [https://github.com/prometheus/my-portfolio](https://github.com/prometheus/my-portfolio "https://github.com/prometheus/my-portfolio")

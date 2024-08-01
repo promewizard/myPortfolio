@@ -95,11 +95,11 @@ fields:
   description: Tags for the post
 - name: author
   type: select
-  default: Kenji Anderson
+  default: Jason Lee
   config:
     required: true
     options:
-    - Kenji Anderson
+    - Jason Lee
     source:
       type: simple
       section: 

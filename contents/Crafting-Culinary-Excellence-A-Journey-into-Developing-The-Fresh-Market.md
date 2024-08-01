@@ -8,13 +8,12 @@ tags:
   - ContextAPI
   - Styled-Components
   - TypeScript
-author: Kenji Anderson
+author: Prometheus
 type: article
 coverImage: https://res.cloudinary.com/dvknjzbss/image/upload/v1706454087/IMAGE/Annotation_2024-01-28_065425_jui2dv.webp
 coverImageAlt: Screenshot of Terminal Portfolio Website
 title: Crafting Culinary Excellence, A Journey into Developing-"The Fresh Market"
-description:
- Welcome to a behind-the-scenes exploration of the development journey behind "The Fresh Market" – a digital haven for connoisseurs seeking a premium shopping experience. In this blog, we delve into the meticulous process of bringing this culinary destination to life, focusing on the integration of cutting-edge technologies such as Next.js, TypeScript, Tailwind CSS, and the Context API.
+description: Welcome to a behind-the-scenes exploration of the development journey behind "The Fresh Market" – a digital haven for connoisseurs seeking a premium shopping experience. In this blog, we delve into the meticulous process of bringing this culinary destination to life, focusing on the integration of cutting-edge technologies such as Next.js, TypeScript, Tailwind CSS, and the Context API.
 excerpt:
   Developing a terminal-like website using ReactJS, TypeScript and Styled-Components.
   Includes features like autocomplete, multiple themes, command hints etc.
@@ -59,6 +58,7 @@ At "The Fresh Market," we understand the importance of special occasions. With t
 As we anticipate growth and expansion, the combination of NextJS and TypeScript assures us of scalability and maintainability. This dynamic duo provides a solid foundation, facilitating easy maintenance and the ability to scale our application to meet the evolving demands of our discerning customers.
 
 ## conclusion
+
 "The Fresh Market" shop project is not just a venture; it's a commitment to excellence, innovation, and the pursuit of culinary delight. The amalgamation of NextJS, TypeScript, TailwindCSS, and ContextAPI has propelled us forward, shaping an online marketplace that transcends convenience and quality. As we continue to sculpt this culinary haven, these technologies stand as the pillars upon which "The Fresh Market" thrives, promising a future filled with freshness, vibrancy, and an unwavering dedication to providing the very best. Stay tuned for more updates as we journey towards culinary perfection.
 
 - Website: [https://www.thefreshmarket.com/](https://www.thefreshmarket.com/ "https://www.thefreshmarket.com/")
